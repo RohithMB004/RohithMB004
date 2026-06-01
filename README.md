@@ -13,7 +13,7 @@ Full-Stack Developer | AI/ML Enthusiast | B.Tech CSE Student
 - 🌱 Currently learning AI/ML, System Design, and Advanced Web Development
 - 🚀 Passionate about building real-world software solutions
 - 💬 Ask me about JavaScript, Python, MERN Stack, SvelteKit, MongoDB, and Flask
-- 📫 Email: **sarathrohith51@gmail.com*
+- 📫 Email: *sarathrohith51@gmail.com*
 
 ---
 
